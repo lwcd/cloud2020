@@ -975,7 +975,7 @@
       <workItem from="1630910469925" duration="4537000" />
       <workItem from="1630916781754" duration="6000" />
       <workItem from="1630916846858" duration="110000" />
-      <workItem from="1630917208252" duration="1946000" />
+      <workItem from="1630917208252" duration="2247000" />
     </task>
     <task id="LOCAL-00001">
       <created>1630503156386</created>
@@ -991,7 +991,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630895927191</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1631032340604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631032340605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -1051,7 +1058,8 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
